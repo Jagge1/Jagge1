@@ -2,7 +2,7 @@
 📘 I am a Software Development student at HKR
 
 ## 📧 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/Jacob-Hellgren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jacob-hellgren)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
