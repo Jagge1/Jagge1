@@ -21,4 +21,4 @@
 ![GitHub](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagge1&layout=compact&langs_count=10&theme=dark)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagge1&theme=github_dark)
