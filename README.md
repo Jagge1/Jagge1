@@ -27,4 +27,6 @@
 ## 📊 GitHub Stats:
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagge1&theme=github_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagge1&" alt="Jagge1" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jagge1&theme=dark" alt="GitHub Streak" />
+</p>
