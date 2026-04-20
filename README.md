@@ -26,6 +26,5 @@
 
 ## 📊 GitHub Stats:
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagge1&theme=github_dark)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagge1&theme=github_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagge1&" alt="jagge1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagge1&" alt="Jagge1" /></p>
