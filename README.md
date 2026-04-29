@@ -40,4 +40,4 @@
 ## 📊 GitHub Stats:
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagge1&theme=github_dark)
 
-<p align="left"><img src="https://streak-stats.demolab.com?user=Jagge1&theme=dark" alt="GitHub Streak" /></p>
+
