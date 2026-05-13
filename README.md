@@ -33,6 +33,9 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/apache%20hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
+### 🧪 Testing & Methodologies
+![Adaptive Lean Software Testing](https://img.shields.io/badge/Adaptive%20Lean%20Software%20Testing-2E8B57?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
 ### 🔧 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)
