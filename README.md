@@ -35,6 +35,7 @@
 
 ### 🧪 Testing & Methodologies
 ![Adaptive Lean Software Testing](https://img.shields.io/badge/Adaptive%20Lean%20Software%20Testing-2E8B57?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![PyTest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### 🔧 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
