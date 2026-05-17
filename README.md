@@ -41,7 +41,8 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats:
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagge1&theme=github_dark)
+## 🚀 Currently Learning
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
