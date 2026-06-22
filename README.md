@@ -49,7 +49,6 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📚 Currently Reading
-**Clean Code** by Robert C. Martin
 <img src="assets/clean-code-cover.jpg" alt="Clean Code" width="200">
 
 
