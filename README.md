@@ -51,6 +51,5 @@
 ## 📚 Currently Reading
 <img src="assets/clean-code-cover.jpg" alt="Clean Code" width="200">
 
-██████████████░░░░░░ 68%
-
+██████████████░░░░░ 72%
 
