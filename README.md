@@ -50,6 +50,7 @@
 
 ## 📚 Currently Reading
 **Designing data intensive applications** by Robert C. Martin
+
 <img src="assets/ddia-cover.jpg" alt="DDIA" width="200">
 
 █░░░░░░░░░░░░░░░░░░░ 3%
