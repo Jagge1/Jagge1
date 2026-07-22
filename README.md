@@ -49,8 +49,10 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📚 Currently Reading
-
+**Designing data intensive applications** by Robert C. Martin
 <img src="assets/ddia-cover.jpg" alt="DDIA" width="200">
 
-**Designing data intensive applications** by Robert C. Martin
+█░░░░░░░░░░░░░░░░░░░ 3%
+
+
 
