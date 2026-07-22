@@ -50,7 +50,7 @@
 
 ## 📚 Currently Reading
 
-<img src="assets/clean-code-cover.jpg" alt="Clean Code" width="200">
+<img src="assets/ddia-cover.jpg" alt="DDIA" width="200">
 
-**Clean Code** by Robert C. Martin
+**Designing data intensive applications** by Robert C. Martin
 
