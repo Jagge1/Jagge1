@@ -49,8 +49,14 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📚 Currently Reading
+<<<<<<< HEAD
 
 <img src="assets/ddia-cover.jpg" alt="DDIA" width="200">
 
 **Designing data intensive applications** by Robert C. Martin
+=======
+<img src="assets/clean-code-cover.jpg" alt="Clean Code" width="200">
+
+████████████████░░░░ 80%
+>>>>>>> e7b46bd48b6e2f6e18efaa88bee428ea342506d2
 
