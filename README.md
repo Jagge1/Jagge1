@@ -53,7 +53,9 @@
 
 <img src="assets/ddia-cover.jpg" alt="DDIA" width="200">
 
-████░░░░░░░░░░░░░░░░ 20%
+█████░░░░░░░░░░░░░░░ 23% 
+
+
 
 
 
