@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me:
-📘 I recently graduated in Software Development from HKR and am looking to start my career as a software developer
+📘 Software Development graduate, looking to start my career as a software developer
 
 ## 📧 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jacob-hellgren-a88967325/)
