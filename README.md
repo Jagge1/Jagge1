@@ -50,10 +50,9 @@
 
 
 ## 📚 Currently Reading
-
+**Clean Architecture** by Robert C. Martin
 <img src="assets/clean-architecture-cover.jpg" alt="CA" width="200">
 
-**Clean Architecture** by Robert C. Martin
 
 █░░░░░░░░░░░░░░░░░░░ 2%
 
