@@ -19,6 +19,7 @@
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 📱 Platforms & Development
 ![Android](https://img.shields.io/badge/android%20development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -43,11 +44,6 @@
 ### 🔧 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## 🚀 Currently Learning
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
 
 ## 📚 Currently Reading
 **Clean Architecture** by Robert C. Martin
