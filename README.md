@@ -51,5 +51,5 @@
 <img src="assets/clean-architecture-cover.jpg" alt="CA" width="200">
 
 
-█████░░░░░░░░░░░░░░░ 25%
+███████░░░░░░░░░░░░░ 34%
 
